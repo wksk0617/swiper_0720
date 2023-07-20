@@ -1,0 +1,11 @@
+*.pdf
+*.psd
+*.ai
+
+# */font/
+# img/
+# # scss/
+.vscode/
+
+*.map
+
